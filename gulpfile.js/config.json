@@ -6,6 +6,7 @@
 
   "tasks": {
     "browserSync": {
+      "browser": "google chrome canary",
       "server": {
         "baseDir": "public"
       }
